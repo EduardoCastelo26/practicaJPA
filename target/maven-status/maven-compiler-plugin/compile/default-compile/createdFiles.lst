@@ -1,0 +1,10 @@
+com\mycompany\practicajdbc\PracticaJDBC.class
+DAO\IngredienteDAO.class
+Entidades\Ingrediente.class
+Entidades\Venta.class
+Entidades\Empleado.class
+DAO\Conexion.class
+Entidades\Producto.class
+DAO\VentaDAO.class
+INTERFACES\IConexion.class
+DAO\ProdDAO.class
